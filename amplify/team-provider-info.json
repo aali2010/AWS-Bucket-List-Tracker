@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsbucketlisttrackerfe8f3b85": {}
+      },
+      "api": {
+        "awsbucketlisttracker": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
